@@ -1,0 +1,6 @@
+* [🏠 Home](README.md)
+* [⚡ Energy](energy.md)
+* [💧 Water](water.md)
+* [🌾 Food](food.md)
+* [🏗️ Housing](housing.md)
+* [🏭 Manufacturing](manufacturing.md)
